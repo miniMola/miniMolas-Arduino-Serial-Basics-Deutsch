@@ -1,2 +1,2 @@
 # miniMolas-Arduino-Serial-Basics-Deutsch
-EInstieg in Arduino > Serielle Schnittstelle
+Einstieg in Arduino > Serielle Schnittstelle
